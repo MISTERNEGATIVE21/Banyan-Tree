@@ -24,13 +24,13 @@ A simple, menu-driven Bash script for managing your system with `rpm-ostree`. Th
 
    ```bash
    git clone <repository-url>
-   cd <repository-directory>```
+   cd <repository-directory> 
 
 2. **chmod +x rpm-ostree-manager.sh:**
 
    ```bash 
-    chmod +x rpm-ostree-manager.sh```
+    chmod +x rpm-ostree-manager.sh 
 3. **Run the script:**
 
    ```bash 
-   ./rpm-ostree-manager.sh ```
+   ./rpm-ostree-manager.sh 
