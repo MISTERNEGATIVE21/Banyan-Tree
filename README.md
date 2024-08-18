@@ -33,4 +33,14 @@ A simple, menu-driven Bash script for managing your system with `rpm-ostree`. Th
 3. **Run the script:**
 
    ```bash 
-   ./rpm-ostree-manager.sh 
+   ./rpm-ostree-manager.sh
+
+## Quick Start with Curl
+
+You can quickly download and run the `rpm-ostree-manager.sh` script using `curl`:
+
+```bash
+curl -O https://raw.githubusercontent.com/MISTERNEGATIVE21/easy-ostree/master/rpm-ostree-manager.sh
+chmod +x rpm-ostree-manager.sh
+./rpm-ostree-manager.sh
+
