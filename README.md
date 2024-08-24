@@ -1,6 +1,6 @@
 # RPM-OSTree Manager
 
-A simple, menu-driven Bash script for managing your system with `rpm-ostree`. This script provides an easy-to-use interface for performing common `rpm-ostree` tasks such as upgrading the system, installing and removing packages, switching branches, and more.
+A simple, menu-driven Bash script for managing your system with `rpm-ostree`. This script provides an easy-to-use interface for performing common `rpm-ostree` tasks such as upgrading the system, installing and removing packages, switching branches, and more. Use `sudo su - ` to perform this .
 
 ## Features
 
