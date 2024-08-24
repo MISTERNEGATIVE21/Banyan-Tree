@@ -42,7 +42,7 @@ You can quickly download and run the `rpm-ostree-manager.sh` script using `curl`
 ```bash
 
 curl -O https://raw.githubusercontent.com/MISTERNEGATIVE21/Banyan-Tree/master/banyan.sh
-chmod +x rpm-ostree-manager.sh
+chmod +x banyan.sh
 ./banyan.sh
 
 
