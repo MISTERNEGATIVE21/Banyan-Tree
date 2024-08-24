@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # URL to your script hosted online
-SCRIPT_URL="https://raw.githubusercontent.com/MISTERNEGATIVE21/easy-ostree/master/rpm-ostree-manager.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/MISTERNEGATIVE21/banyan-tree/master/rpm-ostree-manager.sh"
 
 # Path where the script will be installed
 INSTALL_PATH="/usr/local/bin/banyan"
