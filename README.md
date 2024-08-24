@@ -40,7 +40,10 @@ A simple, menu-driven Bash script for managing your system with `rpm-ostree`. Th
 You can quickly download and run the `rpm-ostree-manager.sh` script using `curl`:
 
 ```bash
-curl -O https://raw.githubusercontent.com/MISTERNEGATIVE21/easy-ostree/master/rpm-ostree-manager.sh
+
+curl -O https://raw.githubusercontent.com/MISTERNEGATIVE21/Banyan-Tree/master/banyan.sh
 chmod +x rpm-ostree-manager.sh
-./rpm-ostree-manager.sh
+./banyan.sh
+
+
 
